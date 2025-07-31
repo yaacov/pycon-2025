@@ -17,7 +17,6 @@ Transform from cloud-dependent AI usage to running powerful, private AI systems 
 ## Workshop Structure
 
 ### Chapter 1: Building Your First Private AI Assistant
-**Duration:** 45 minutes | **Focus:** Foundation & Security
 
 Learn why organizations choose private AI and get hands-on experience running a production-ready Large Language Model locally.
 
@@ -32,7 +31,6 @@ Learn why organizations choose private AI and get hands-on experience running a 
 ---
 
 ### Chapter 2: Supercharging Your AI with Hardware Optimization
-**Duration:** 45 minutes | **Focus:** Performance & Compatibility
 
 Transform your slow baseline into a lightning-fast AI system using hardware-specific optimizations across different platforms.
 
@@ -48,7 +46,6 @@ Transform your slow baseline into a lightning-fast AI system using hardware-spec
 ---
 
 ### Chapter 3: Teaching Your AI About Your Business
-**Duration:** 60 minutes | **Focus:** Knowledge Integration
 
 Build a sophisticated Retrieval-Augmented Generation (RAG) system that gives your AI access to private knowledge bases.
 
