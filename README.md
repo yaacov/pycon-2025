@@ -12,7 +12,6 @@ Transform from cloud-dependent AI usage to running powerful, private AI systems 
 - **Keep your data secure** - Everything runs on your hardware
 - **Deliver fast responses** - 2-5x performance improvements through optimization
 - **Understand your business** - Custom knowledge integration via RAG
-- **Scale to production** - Architecture for thousands of concurrent users
 
 ## Workshop Structure
 
@@ -47,16 +46,13 @@ Transform your slow baseline into a lightning-fast AI system using hardware-spec
 
 ### Chapter 3: Teaching Your AI About Your Business
 
-Build a sophisticated Retrieval-Augmented Generation (RAG) system that gives your AI access to private knowledge bases.
+Build a Retrieval-Augmented Generation (RAG) system that gives your AI access to domain specific knowledge.
 
 **Key Topics:**
-- Advanced RAG architecture and components
+- RAG architecture and components
 - Vector databases and semantic search
-- Production-grade error handling
-- Scaling strategies for enterprise deployment
-- Security and compliance considerations
 
-**Deliverable:** Complete private AI system with custom knowledge
+**Deliverable:** Complete private AI system with access to buisness knowledge
 
 ## Hardware Requirements
 
